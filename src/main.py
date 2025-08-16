@@ -67,8 +67,4 @@ class Biblioteca:
 
 biblioteca1 = Biblioteca()
 
-biblioteca1.agregar_libro("Administracion","Juan","Terror",2005)
-biblioteca1.agregar_libro("Administracion","Miguel Angel","Fantasia",2010)
-
-print(biblioteca1.buscar_libro("Administracion"))
 
